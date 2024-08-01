@@ -24,7 +24,7 @@ cors = CORS(app)
 
 @app.route("/")
 def index():
-    return "TODO App"
+    return "TODO App2222"
 
 
 @app.route("/todo")
